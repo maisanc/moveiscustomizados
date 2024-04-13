@@ -1,0 +1,77 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  margin: 0px;
+}
+
+img {
+  margin: 100px;
+}
+
+#hero {
+  width: 348px;
+  margin-top: 0px;
+  margin-left: 474px;
+  margin-right: 458px;
+
+}
+
+#footer {
+  margin-bottom: 33px;
+}
+
+h1 {
+  font-family: "Inter", sans-serif;
+  font-size: 49px;
+  text-align: center;
+  font-weight: lighter;
+}
+
+p {
+  font-size: 14px;
+  line-height: 140px;
+  margin-left: 344px;
+  margin-right: 344px;
+  margin-bottom: 141px;
+}
+
+span,
+a {
+  color: #ff9900;
+}
+
+.palavra {
+  color: #ff9900;
+  font-weight: bold;
+}
+
+.negrito {
+  font-weight: bold;
+  color: #7d7987;
+}
+
+.outro {
+  font-weight: 100;
+  color: red;
+}
+
+p {
+  color: #7d7987;
+  font-size: 14px;
+  line-height: 28px;
+}
+
+p,
+#footer {
+  margin-bottom: 72px;
+}
+
+#footer a+a {
+  margin-left: 28px;
+}
+
+#balls {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+}
